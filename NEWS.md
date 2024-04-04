@@ -1,0 +1,18 @@
+# DPTM 1.3.8
+
+# DPTM 1.3.7
+* CRAN resubmission.
+
+# DPTM 1.3.6
+
+# DPTM 1.3.5
+* CRAN resubmission.
+
+# DPTM 1.2.3
+
+# DPTM 1.1.7
+
+* Initial CRAN submission.
+* Supply the linear dynamic panel fixed effects model.
+* Supply the dynamic panel multiple thresholds model.
+* Supply the test for the number of thresholds.

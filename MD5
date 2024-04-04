@@ -1,0 +1,16 @@
+76a0a1dd3a7aaaa6a56de3b8c14deb97 *DESCRIPTION
+08d5d7bab88f167846c8dfc29fa4fdc6 *NAMESPACE
+52e535b4b1693eba6b4f78569b769778 *NEWS.md
+3e61d964a56dfb6a75cffd2730dd8321 *R/DPM.R
+5f1310f333ed86c2eed2e9954701a57b *R/RcppExports.R
+caabc437dab28522ef5f2aa3b6fabe11 *R/data.R
+2eeb8303ec41ab7f9dd94d62a205c802 *R/tests.R
+bc9518ec9dc54e99097c3f7f99c3e26a *R/thresholdS.R
+bc1ecb8bcb47cc12c9d97d6074334faf *README.md
+1e6b950f0019b5122525c490ec4864bb *data/data.rda
+72af49dba0a45908fe435568202dbd1b *man/DPML.Rd
+73ce40d2252fdf680c1aae1f2d1ac916 *man/DPTS.Rd
+c90e6ac6a5a909a774e487dce4aaf116 *man/Threshold_Test.Rd
+144e6c142f0b9194adb36eafbca6392f *man/data.Rd
+65c755092cf24d60afc98b0348e1de46 *src/RcppExports.cpp
+1efc0e52cc62e362cc1d24519d82f538 *src/used_function.cpp
